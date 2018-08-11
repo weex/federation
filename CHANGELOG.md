@@ -6,7 +6,7 @@
 
 * **Backwards incompatible.** Lowest compatible Python version is now 3.6.
 
-## [unreleased]
+## [0.17.0] - 2018-08-11
 
 ### Fixed
 
